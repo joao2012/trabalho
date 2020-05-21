@@ -1,0 +1,25 @@
+.bg-joao {
+    background-image: linear-gradient(#241f20, #525859);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+.bg-footer {
+    background: #40484a;
+    font-size: 2rem;
+    font-weight: 105;
+}
+
+.rodape {
+    background-image: url(_bootstrap/img/rodape.jpeg);
+    background-size: 50%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.mt-n5 {
+    margin-top: -2.5rem;
+}
+
+.hhh {
+    background: #011d26;
+}
